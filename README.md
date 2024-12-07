@@ -53,7 +53,8 @@ Where:
 
 ## Screenshot
 
-![Serenity Index Example](path/to/example-screenshot.png)
+![image](https://github.com/user-attachments/assets/ce81dcf2-b6d4-416a-ae45-6c25c534cfc6)
+
 
 ## How It Works
 
